@@ -1,1 +1,1 @@
-"# django" 
+"# git_init"
